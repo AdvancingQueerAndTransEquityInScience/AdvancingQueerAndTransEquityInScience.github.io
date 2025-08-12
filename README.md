@@ -8,15 +8,19 @@ We strive to ensure our recommendations maintain their relevance across borders.
 
 ### Call for Research Institutions to Protect Transgender Scientists
 
-See our [letter in Science]() calling on researchers at all levels—from undergraduates to university presidents—to take direct, consistent, and rapid action.
+See our [letter in Science](https://doi.org/10.1126/science.ady0962) calling on researchers at all levels—from undergraduates to university presidents—to take direct, consistent, and rapid action.
 
 ### Recommendations for Queer and Trans Inclusive Hiring
 
-<img align="left" src="/checklist.png" width="200px" style="padding-right: 15px"> See our [perspective in PLOS Biology](https://doi.org/10.1371/journal.pbio.3002919) calling for a change in faculty hiring practices and our [detailed whitepaper](https://doi.org/10.32942/X2J310) that provides concrete recommendations for hiring committees to make such changes. 
+See our [perspective in PLOS Biology](https://doi.org/10.1371/journal.pbio.3002919) calling for a change in faculty hiring practices and our [detailed whitepaper](https://doi.org/10.32942/X2J310) that provides concrete recommendations for hiring committees to make such changes. 
+
+<img align="center" src="/checklist.png" width="400px"> 
 
 ### Recommendations for Queer and Trans Inclusive Conferences
 
-<img align="left" src="/QT.tif" width="200px" style="padding-right: 15px"> See our [perspective in mSystems](https://doi-org/10.1128/msystems.00433-23) offering guidance on how to build a queer- and trans-inclusive microbiology conference.
+See our [perspective in mSystems](https://doi.org/10.1128/msystems.00433-23) offering guidance on how to build a queer- and trans-inclusive microbiology conference.
+
+<img align="center" src="/QT.png" width="400px"> 
 
 ## Other Resources
 
