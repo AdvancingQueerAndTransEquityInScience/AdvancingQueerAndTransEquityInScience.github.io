@@ -3,3 +3,5 @@ subtitle:
 logo:
 markdown: kramdown
 theme: jekyll-theme-minimal
+github:
+  is_project_page: false
