@@ -27,3 +27,7 @@ See our [perspective in mSystems](https://doi.org/10.1128/msystems.00433-23) off
 ### Supporting Trans Colleagues
 
 Some of our members put together [a guide for faculty hoping to better support their trans colleagues.](https://AdvancingQueerAndTransEquityInScience.github.io/HowtoSupportTransColleagues.pdf)
+
+## Contact
+
+For more information or to join our efforts email <queer.and.trans.equity.in.science@gmail.com>
