@@ -1,6 +1,6 @@
 ## About
 
-AQTES is an international working group of queer and trans scientists aiming to improve working conditions and career outcomes for queer and trans scientists working in academic and non-profit laboratories.We are working queer and trans scientists, writing about the needs of queer and trans scientists from our own experiences in the sciences. We welcome scientists at all career levels who are actively engaged in research at academic or non-profit institutions in some capacity.
+AQTES is an international working group of queer and trans scientists aiming to improve working conditions and career outcomes for queer and trans scientists working in academic and non-profit laboratories. We write about the needs of queer and trans scientists from our own experiences in the sciences. We welcome scientists at all career levels who are actively engaged in research at academic or non-profit institutions in some capacity.
 
 We strive to ensure our recommendations maintain their relevance across borders. As an international working group, we reject a view of science that only prioritizes the needs of scientists in The US, Canada, Australia, and European countries. 
 
