@@ -8,7 +8,7 @@ We strive to ensure our recommendations maintain their relevance across borders.
 
 ### Call for Research Institutions to Protect Transgender Scientists
 
-See our [letter in Science](https://doi.org/10.1126/science.ady0962) calling on researchers at all levels—from undergraduates to university presidents—to take direct, consistent, and rapid action.
+See our [letter in Science](https://doi.org/10.1126/science.ady0962) calling on researchers in the US at all levels—from undergraduates to university presidents—to take direct, consistent, and rapid action to protect transgender scientists.
 
 ### Recommendations for Queer and Trans Inclusive Hiring
 
