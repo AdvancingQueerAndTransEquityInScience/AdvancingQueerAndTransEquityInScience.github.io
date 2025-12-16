@@ -22,6 +22,10 @@ See our [perspective in mSystems](https://doi.org/10.1128/msystems.00433-23) off
 
 <img align="center" src="/QT.png" width="400px"> 
 
+### Facilitating inclusive discussions on sensitive topics in biology
+
+See our response in [the American Journal of Botany](https://doi.org/10.1002/ajb2.70133) discussing the use of the word gender in plant sciences.
+
 ## Other Resources
 
 ### Supporting Trans Colleagues
